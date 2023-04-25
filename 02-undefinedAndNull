@@ -1,0 +1,4 @@
+//Undefined
+let coffeeCupContents;
+coffeeCupContents= "tea"
+console.log(coffeeCupContents);
