@@ -29,7 +29,7 @@ add(3, 0.14)
 
 /* function: keyword - indicates that it's a function
     subtract: method name - can be whatever, should relater to the action
-    (num1, num2): parameters - defihne input variables
+    (num1, num2): parameters - define input variables
 */
 function subtract(num1, num2){
     console.log(num1-num2)
@@ -50,7 +50,7 @@ let person2 = {
 };
 
 //Arrow Function Expression
-// let greetPerson =  funvtion (person) {}
+// let greetPerson =  function (person) {}
 
 let greetPerson = (person) => {
     //get the full name

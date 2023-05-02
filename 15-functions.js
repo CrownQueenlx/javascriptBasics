@@ -22,14 +22,14 @@ hiMom();
 let hello = hiMom;
 hello();
 
-// funtion declatations get hoisted
+// funtion declarations get hoisted
 // function expressions do not get hoisted
 let petTheCat = function() {
     console.log("You pet the cat.");
 }
 petTheCat();
 
-// functions inside objects (methond )= ))
+// functions inside objects (method )= ))
 let counter = {
     // key: value
     timesInvoked: 0,
@@ -106,7 +106,7 @@ let pen = {
     console.log("The pen is open", pen.isOpen);
     
 // Arrow Functions ()=>
-let write = () => {
+let write = (/*person*/) => {
     console.log("someExample");
 
 }

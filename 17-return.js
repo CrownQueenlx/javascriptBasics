@@ -14,7 +14,7 @@
     };
     
     //Arrow Function Expression
-    // let greetPerson =  funvtion (person) {}
+    // let greetPerson =  function (person) {}
     
     let greetPerson = (person) => {
         //get the full name

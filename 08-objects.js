@@ -55,7 +55,7 @@ let show = {
         numberOfEpisodes: 6,
         episodeInfo : [
           { episode: 1, episodeName: "Everything is Great!"},
-          { episode: 2, episodeName: "Dance Dance Resolution"},
+          { episode: 2, episodeName: "Dance Dance Revolution"},
           { episode: 3, episodeName: "Team Cockroach"},
           { episode: 4, episodeName: "Existential Crisis"},
           { episode: 5, episodeName: "The Trolley Problem"},
